@@ -1,0 +1,4 @@
+kubeconfig: /var/run/kubernetes/admin.kubeconfig
+labelsFilter: ""
+nslablesCacheTimeout: 20
+eventsCacheTimeout: 1
